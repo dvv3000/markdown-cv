@@ -1,86 +1,41 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dang Van Viet's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dang Van Viet
+Student, PHP Intern.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">Github</a>
+| <a href="https://www.facebook.com/dangviet3000z">Facebook</a>
 </div>
 
 
-## Currently
+## *Currently*
 
-Standing on the shoulders of giants
+Being in the internship in VNP Group as PHP Intern
+### *Specialized in*
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Systems of Information and Communication (**SIC**)
 
 
-## Education
+### *Domain interests*
 
-`1654-1660`
-__The King's School, Grantham.__
+Web service, Computer Vision, ...
+### *Skills*
+- Frontend: HTML, CSS, JavaScript,...
+- Backend: PHP, Laravel
+- Other: Python, ...
+## *Education*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015-2018`
+__Nguyen Hue High School for Gifted Student, Ha Noi.__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2018 - now`
+__Hanoi University of Science and Technology__
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
